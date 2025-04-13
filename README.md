@@ -36,14 +36,14 @@ The following main tables are included in the schema:
 1. Run the script to create and initialize all tables:
 2. Add Sample Data (Optional): You can insert test data for development or testing.
 3. Query the Database
-4. Generate ERD Diagram: Use tools like MySQL Workbench to visually represent relationships.
+4. Generate ERD Diagram: Use tools like Draw.io to visually represent relationships.
 
 ```markdown
 ![Bookstore Database Schema](ERD Diagram.drawio.png)
 ```
 ## ✅ Requirements
-A editor i.e(vscode)
-A SQL client (e.g., MySQL Workbench,)
-
+SQL client (e.g., MySQL Workbench,)
+Draw.io
 ## 🧑‍💻 Contributors
-Team Members: Joy Wucha, Victor, Cristopher
+Team Members: Joy Wucha, Victor Awojobi, Christopher Ikwumonu 
+
