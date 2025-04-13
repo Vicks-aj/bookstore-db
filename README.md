@@ -38,9 +38,12 @@ The following main tables are included in the schema:
 3. Query the Database
 4. Generate ERD Diagram: Use tools like MySQL Workbench to visually represent relationships.
 
-✅ Requirements
+```markdown
+![Bookstore Database Schema](ERD Diagram.drawio.png)
+```
+## ✅ Requirements
 A editor i.e(vscode)
 A SQL client (e.g., MySQL Workbench,)
 
-🧑‍💻 Contributors
+## 🧑‍💻 Contributors
 Team Members: Joy Wucha, Victor, Cristopher
